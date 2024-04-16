@@ -1,2 +1,3 @@
-let userName='Amritanshu rai'
+let userName='Manmohan Singh'
 const a='gopalgang'
+console.log(a);
